@@ -30,7 +30,6 @@ trips
 |> Enum.count()
 |> IO.inspect
 
-
 # blah = length(lol)
 # IO.puts("#{blah}")
 
